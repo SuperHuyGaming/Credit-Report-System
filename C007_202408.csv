@@ -1,0 +1,4 @@
+ssn,first_name,last_name,job_title,employer,loan_id,card_type,limit,amount_due,status
+240-01-2005,Dan,Nguyen,Peer Mentor,Hrolenok,123456031,mastercard,400000,20000,2 
+240-01-2005,Danielle,Nguyen,Peer Mentor,Hrolenok,1234531,mastercard,500000,40000,3 
+190-05-2005,Minh,Huy,Psychopath,Brent Gorbut,11591,visa,25225,2322,1

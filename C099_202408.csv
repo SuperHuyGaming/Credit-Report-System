@@ -1,0 +1,9 @@
+ssn,first_name,last_name,job_title,employer,loan_id,card_type,limit,amount_due,status
+577-27-4193,Adrien,Feldmann,Sales Associate,"Lynch, Reinger and McKenzie",633594268,visa,60077,3857,2
+577-27-4193,Adrian,Feldmann,Sales Associate,"Lynch, Reinger and McKenzie",733594269,visa,20081,3454,1
+780-94-3100,Bobette,Priditt,Safety Technician II,Jenkins Inc,353975662,visa,17159,2014,3
+436-70-5107,Artemus,Fetterplace,Food Chemist,Considine Inc,197840793,visa,97357,1657,1
+190-05-2005,Hui,Truong,Psychopath,Brent Gorbut,1512591,visa,2525,222,1
+190-05-2005,Hy,Truong,Psychopath,Brent Gorbut,151591,visa,2525,222,2
+190-05-2005,Hyi,Truong,Psychopath,Brent Gorbut,1251591,visa,0,0,5
+240-01-2005,Dan,Nguyen,Peer Mentor,Hrolenok,1236031,mastercard,400000,2000,2 
